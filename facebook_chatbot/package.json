@@ -1,0 +1,32 @@
+{
+  "name": "emtarang_chatbot",
+  "version": "1.0.0",
+  "description": "Need to show movie details based on userinteraction",
+  "main": "messanger.js",
+  "scripts": {
+    "test": "node messanger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalini1991/Emtarang_chatbot.git"
+  },
+  "author": "nalini1991vemu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nalini1991/Emtarang_chatbot/issues"
+  },
+  "homepage": "https://github.com/nalini1991/Emtarang_chatbot#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "imdb-api": "^2.2.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.11",
+    "mysql": "^2.11.1",
+    "node-wit": "^4.1.0",
+    "nodehun-sentences": "^1.0.1",
+    "request": "^2.75.0"
+  }
+}
